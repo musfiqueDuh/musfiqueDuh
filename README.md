@@ -1,6 +1,6 @@
 # Hey, I’m Musfique 👋
 
-I’m a **CSE graduate from BRAC University (2026)** who enjoys building things, designing interfaces, and figuring out how technology works.
+I’m a **CSE graduate** who enjoys building things, designing interfaces, and figuring out how technology works.
 
 My work spans web and mobile apps, ML experiments, Linux deployments, and Arduino and Raspberry Pi projects. I love creativity and lowkey enjoy seeing an idea turn into something useful ✨.
 
