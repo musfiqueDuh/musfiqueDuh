@@ -87,11 +87,7 @@ Across projects, coursework, and experiments.
 
 ![Swift · iOS](https://img.shields.io/badge/Swift_%C2%B7_iOS-C84B31?style=flat-square&logo=swift&logoColor=white)
 
-### A few things I’ve worked on
-
-- **[Vivien Lifestyle](https://github.com/musfiqueDuh/vivienbd)**: a look inside a private commerce project.
-- **[Vivien Admin](https://github.com/musfiqueDuh/vivien-app)**: a mobile operations prototype with local demo data.
-- **[Portfolio & case studies](https://github.com/musfiqueDuh/mush)**: interfaces, project stories, and the thinking behind them.
+### Currently I'm organizing my github will soon upload my works. 
 
 Based in **Bangladesh**, open to **full time opportunities**.
 
