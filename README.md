@@ -1,8 +1,8 @@
-# Hey, I’m Mahin 👋
+# Hey, I’m Musfique 👋
 
 I’m a **CSE graduate from BRAC University (2026)** who enjoys building things, designing interfaces, and figuring out how technology works.
 
-My work spans web and mobile apps, ML experiments, Linux deployments, and hands-on Arduino and Raspberry Pi projects. I love creativity—and turning ideas into something useful.
+My work spans web and mobile apps, ML experiments, Linux deployments, and Arduino and Raspberry Pi projects. I love creativity and lowkey enjoy seeing an idea turn into something useful ✨.
 
 ### Things I’ve worked with
 
@@ -89,10 +89,10 @@ Across projects, coursework, and experiments.
 
 ### A few things I’ve worked on
 
-- **[Vivien Lifestyle](https://github.com/musfiqueDuh/vivienbd)** — a look inside a private commerce project.
-- **[Vivien Admin](https://github.com/musfiqueDuh/vivien-app)** — a mobile operations prototype with local demo data.
-- **[Portfolio & case studies](https://github.com/musfiqueDuh/mush)** — interfaces, project stories, and the thinking behind them.
+- **[Vivien Lifestyle](https://github.com/musfiqueDuh/vivienbd)**: a look inside a private commerce project.
+- **[Vivien Admin](https://github.com/musfiqueDuh/vivien-app)**: a mobile operations prototype with local demo data.
+- **[Portfolio & case studies](https://github.com/musfiqueDuh/mush)**: interfaces, project stories, and the thinking behind them.
 
-Based in **Bangladesh**, open to **full-time opportunities**.
+Based in **Bangladesh**, open to **full time opportunities**.
 
 Away from the keyboard: cooking, gaming, and thinking up business ideas.
