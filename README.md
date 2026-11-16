@@ -1,19 +1,36 @@
 # Hey, I’m Mahin 👋
 
-I build web apps, design interfaces, and enjoy figuring out how things work. My projects bring together technology, creativity, and business ideas.
+I’m a **CSE graduate from BRAC University (2026)** who enjoys building things, designing interfaces, and figuring out how technology works.
 
-I’ve also built with **Arduino and Raspberry Pi**—my curiosity about tech started long before AI coding tools.
+My work spans web and mobile apps, ML experiments, Linux deployments, and hands-on Arduino and Raspberry Pi projects. I love creativity—and turning ideas into something useful.
 
-### Things I build with
+### Things I’ve worked with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+<details>
+<summary>A little more of my toolkit</summary>
+
+These are technologies I’ve used across projects, coursework, and experiments.
+
+- **Languages:** JavaScript, TypeScript, Python, PHP, Java, C++, HTML, CSS, SQL.
+- **Web & mobile:** React, Next.js, React Native, Express, Node.js, Vite, Tailwind CSS v3/v4, Shopify Liquid and theme customization.
+- **Databases:** MySQL, PostgreSQL, MongoDB, Prisma.
+- **ML & deep learning:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow/Keras, PyTorch; classification, regression, RNNs and LSTMs.
+- **Linux & deployment:** Ubuntu, terminal tools, packages, SSH, Nginx/PM2, services, permissions and logs.
+- **Hardware & coursework:** Arduino, Raspberry Pi, electronics, automation/IoT, networking and remote control, Altera Quartus, compiler design with C++, OpenGL and LaTeX.
+- **Version control:** Git and GitHub.
+
+</details>
+
+🌱 **Currently exploring:** Swift for iOS development.
 
 ### A few things I’ve worked on
 
@@ -24,5 +41,3 @@ I’ve also built with **Arduino and Raspberry Pi**—my curiosity about tech st
 Based in **Bangladesh**, open to **full-time opportunities**.
 
 Away from the keyboard: cooking, gaming, and thinking up business ideas.
-
-<!-- Prepared with OpenAI Codex assistance. -->
